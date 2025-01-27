@@ -25,6 +25,5 @@ export const prosConsDiscusserStreamUseCase = async (
       },
     ],
     temperature: 0.8,
-    max_tokens: 500,
   });
 };
